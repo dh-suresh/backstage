@@ -1,5 +1,19 @@
 # @backstage/cli
 
+## 0.22.4-next.1
+
+### Patch Changes
+
+- 4b4998466b: Updated dependency `del` to `^7.0.0`.
+- Updated dependencies
+  - @backstage/cli-common@0.1.11
+  - @backstage/config@1.0.6
+  - @backstage/config-loader@1.1.8
+  - @backstage/errors@1.1.4
+  - @backstage/eslint-plugin@0.1.2-next.0
+  - @backstage/release-manifests@0.0.8
+  - @backstage/types@1.0.2
+
 ## 0.22.4-next.0
 
 ### Patch Changes

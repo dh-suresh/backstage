@@ -1,5 +1,17 @@
 # @backstage/core-components
 
+## 0.12.5-next.1
+
+### Patch Changes
+
+- c10384a923: Switch to using `LinkButton` instead of the deprecated `Button`
+- Updated dependencies
+  - @backstage/config@1.0.6
+  - @backstage/core-plugin-api@1.4.1-next.0
+  - @backstage/errors@1.1.4
+  - @backstage/theme@0.2.17
+  - @backstage/version-bridge@1.0.3
+
 ## 0.12.5-next.0
 
 ### Patch Changes
