@@ -1,0 +1,30 @@
+plugins/techdocs-node/src/stages/generate/__fixtures__/mkdocs_with_extensions.yml
+  h_200902b1a4d75c 7
+plugins/techdocs-node/src/stages/generate/helpers.ts
+  s_8637c0eb7df3f8::t_3a14183e2f683b 133
+plugins/techdocs-node/src/stages/generate/helpers.test.ts
+  s_8637c0eb7df3f8::t_bca706505973c6 1043-1051
+.changeset/fix-techdocs-emoji-generator-tag.md
+  h_200902b1a4d75c 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "42e1243c0632a50bd8d81ec95c9e62093a84f670",
+  "prompts": {},
+  "humans": {
+    "h_200902b1a4d75c": {
+      "author": "dh-suresh <suresh.prajapati@deliveryhero.com>"
+    }
+  },
+  "sessions": {
+    "s_8637c0eb7df3f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "095b6b7b-c15c-4b48-9998-0f8219aed42e",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "dh-suresh <suresh.prajapati@deliveryhero.com>"
+    }
+  }
+}
